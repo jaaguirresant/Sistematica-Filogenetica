@@ -54,7 +54,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 1. **Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](enlace). Finalmente, se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto y el programa Mesquite. Bajar las siguientes matrices para este ejercicio: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace).
 
-__Bibliografía complementaria:__
+_ _Bibliografía complementaria:_ _
 
 - Distancias
 - Argumentación Hennigiana
@@ -65,7 +65,7 @@ __Bibliografía complementaria:__
 
 - En la segunda clase se explican algunas ramificaciones de la Máxima Parsimonia y los métodos de estimación de confianza ([Descargar diapositivas aquí](enlace)). Esta clase termina con un taller manual de inferencia filogenética y estimación de medidas de confianza ([Descargar taller aquí](enlace)). 
 
-__Bibliografía complementaria:__
+_ _Bibliografía complementaria:_ _
 
 - Tipos de parsimonia
 - Indices
@@ -79,7 +79,7 @@ Inferencia filogenética usando modelos evolutivos: Máxima Verosimilitud.
 
 ### Semana 3: 27–30 abril.
 
-__Bibliografía complementaria:__
+_ _Bibliografía complementaria:_ _
 
 - Tipos de parsimonia
 - Indices
@@ -89,14 +89,9 @@ __Bibliografía complementaria:__
 
 ### Semana 4: 4–7 mayo.
 
-__Bibliografía complementaria:__
+_ _Bibliografía complementaria:_ _
 
 - Tipos de parsimonia
 - Indices
 - Pesos
 - Ventajas y desventajas
-
-
-
-
-
