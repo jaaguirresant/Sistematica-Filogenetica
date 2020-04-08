@@ -19,7 +19,7 @@
 
 3. Entendimiento de la importancia de la inferencia filogenética para abordar problemas biológicos en un contexto evolutivo.
 
-## Estructura del módulo
+## Estructura general del módulo
 
 ### Preparación
 
@@ -46,7 +46,35 @@ C. Disponibilidad técnica (conexión a internet) para las sesiones virtuales. S
 
 ### Dinámica de las clases
 
-Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y preentación de resultados.
+Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. Se recomienda enfáticamente replicar los ejercicios practicados en clase con los datos de sus proyecto de semestre.
+
+## Contenido
+
+### Semana 1: 13–16 abril. Métodos de distancia, argumentación Hennigiana, criterio de optimalidad y Máxima Parsimonia
+
+1. **Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](enlace). Finalmente, se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto y el programa Mesquite. Bajar las siguientes matrices para este ejercicio: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace).
+
+__Bibliografía complementaria:__
+
+- Distancias
+- Argumentación Hennigiana
+
+2. **Criterio de optimalidad y Máxima Parsimonia.** En estas dos clases se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia. Se recomienda leer el siguiente artículo antes de comenzar la clase ([Descargar artículos aquí](enlace)). 
+
+- En la primera clase se explican los fundamentos y pasos básicos de este método ([Descargar diapositivas aquí](enlace)). Además, esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método ([Descargar taller aquí](enlace)). 
+
+- En la segunda clase se explican algunas ramificaciones de la Máxima Parsimonia y los métodos de estimación de confianza ([Descargar diapositivas aquí](enlace)). Esta clase termina con un taller manual de inferencia filogenética y estimación de medidas de confianza ([Descargar taller aquí](enlace)). 
+
+__Bibliografía complementaria:__
+
+- Tipos de parsimonia
+- Indices
+- Pesos
+- Ventajas y desventajas
+
+### Semana 2: 20–23 abril. Inferencia filogenética usando modelos evolutivos: Máxima Verosimilitud.
+usando Máxima Parsimonia en el programa TNT y el paquete Phangorn de R. Para este taller se usará la siguiente matriz: [primates.tnt](enlace) para TNT y [primates.nex](enlace) para phangorn. 
+
 
 
 
