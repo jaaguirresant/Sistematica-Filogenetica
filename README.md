@@ -50,7 +50,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ## Contenido
 
-### Semana 1: 13–16 abril. Métodos de distancia, argumentación Hennigiana, criterio de optimalidad y Máxima Parsimonia
+### Semana 1: 13–16 abril.
 
 1. **Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](enlace). Finalmente, se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto y el programa Mesquite. Bajar las siguientes matrices para este ejercicio: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace).
 
@@ -72,8 +72,29 @@ __Bibliografía complementaria:__
 - Pesos
 - Ventajas y desventajas
 
-### Semana 2: 20–23 abril. Inferencia filogenética usando modelos evolutivos: Máxima Verosimilitud.
+### Semana 2: 20–23 abril. 
 usando Máxima Parsimonia en el programa TNT y el paquete Phangorn de R. Para este taller se usará la siguiente matriz: [primates.tnt](enlace) para TNT y [primates.nex](enlace) para phangorn. 
+
+Inferencia filogenética usando modelos evolutivos: Máxima Verosimilitud.
+
+### Semana 3: 27–30 abril.
+
+__Bibliografía complementaria:__
+
+- Tipos de parsimonia
+- Indices
+- Pesos
+- Ventajas y desventajas
+
+
+### Semana 4: 4–7 mayo.
+
+__Bibliografía complementaria:__
+
+- Tipos de parsimonia
+- Indices
+- Pesos
+- Ventajas y desventajas
 
 
 
