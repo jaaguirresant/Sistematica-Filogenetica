@@ -31,11 +31,11 @@ A. Computador o laptop con los siguientes programas instalados:
 - Editor de texto (recomendados notepad++ para Windows y Atom para Mac).
 - [Mesquite](https://www.mesquiteproject.org/). Útil para construir y/o visualizar matrices de caracteres.
 - R y R Studio (bajar los paquetes: Ape, Phangorn, Phytools).
-- TNT (GUI solo para Windows, http://www.lillo.org.ar/phylogeny/tnt/). Para análisis de Máxima Parsimonia.
-- RAxML GUI (https://antonellilab.github.io/raxmlGUI/). Para análisis de Máxima Verosimilitud.
-- MrBayes (http://nbisweden.github.io/MrBayes/download.html). Para análisis de Inferencia Bayesiana.
-- ASTRAL (https://github.com/smirarab/ASTRAL/blob/master/README.md). Para inferencia de árboles de especies a partir de árboles de genes.
-- FigTree (https://github.com/rambaut/figtree/releases).
+- [TNT](http://www.lillo.org.ar/phylogeny/tnt/). GUI solo para Windows. Para análisis de Máxima Parsimonia.
+- [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Para análisis de Máxima Verosimilitud.
+- [MrBayes](http://nbisweden.github.io/MrBayes/download.html). Para análisis de Inferencia Bayesiana.
+- [ASTRAL](https://github.com/smirarab/ASTRAL/blob/master/README.md). Para inferencia de árboles de especies a partir de árboles de genes.
+- [FigTree](https://github.com/rambaut/figtree/releases).
 
 **Nota:** Es posible que usemos otros programas, pero les avisaré con tiempo. Todos los programas de inferencia filogenética vienen acompañados con sus respectivos tutoriales. Se sugiere seguirlos en su tiempo libre; no se limiten únicamente a los ejercicios de la clase.  
 
