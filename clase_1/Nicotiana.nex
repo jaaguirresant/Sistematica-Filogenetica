@@ -1,0 +1,48 @@
+#NEXUS
+[written Tue Mar 21 21:20:39 COT 2017 by Mesquite  version 3.2 (build 801) at Yiyi/192.168.1.4]
+
+BEGIN TAXA;
+	TITLE Suaveolentes;
+	DIMENSIONS NTAX=23;
+	TAXLABELS
+		N._africana N._amplexicaulis N._benthamiana N._burbidgeae N._cavicola N._excelsior N._forsteri N._fragrans N._goodspeedii N._gossei N._heterantha N._maritima N._megalosiphon_ssp._megalosiphon N._monoschizocarpa N._occidentalis_ssp._obliqua N._rosulata_ssp._ingulba N._rosulata_ssp._rosulata N._rotundifolia N._simulans N._sp._?Corunna N._suaveolens N._truncata N._velutina 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  MCD;
+	DIMENSIONS  NCHAR=26;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5 6 7 8 9";
+	CHARSTATELABELS 
+		1 Forma_de_la_semilla /  'trapezoide/angulosa' reniforme forma_de_C, 2 Forma_de_las_paredes_celulares_de_la_testa /  sinuosa recta, 3 Realce_de_las_uniones_de_las_células_en_la_testa /  ausente presente, 4 Simetría_del_tubo_de_la_corola /  fuertemente_zigomorfico ligeramente_zigomorfico, 5 Forma_de_los_pétalos_de_la_corola /  redondeado emarginado mucronato águdo, 6 Orientación_de_los_pétalos_de_la_corola /  diagonal extendidos recurvados, 7 Cáliz_respecto_a_la_corola /  apretando_la_corola sin_apretar_la_corola, 8 'Radio de la longitud del tubo florar:cáliz', 9 Filamento_de_los_estambres_más_largos_en_el_punto_de_inserción /  doblados rectos, 10 Estambres /  exertos insertos, 11 Distribución_y_cantidad_de_las_papilas_del_estigma /  escasas_en_los_bordes abundantes_en_los_bordes abundantes_en_toda_la_superficie, 12 Cáudice_leñoso /  ausente presente, 13 Roseta_basal /  presente_ ausente, 14 Hojas_senescentes_de_la_roseta /  retenidas no_retenidas, 15 Tallo_florífero /  sin_hojas con_hojas, 16 Hojas_caulinares_maduras /  no_decurrentes decurrentes, 17 Forma_del_peciolo_ /  ampliamente_alado alado_pero_abruptamente_truncado 'no alado, atenuado' sésil, 18 Aurículas_en_la_base_de_la_hoja /  presentes ausentes, 19 'Radio ancho:largo de los cotiledones', 20 Tricomas_no_glandulares_en_anteras /  ausentes presentes, 21 Tricomas_con_una_única_célula_glandular /  ausente presente, 22 Tricomas_con_glándulas_de_cabeza_elipsoide /  ausentes presentes, 23 Tricomas_ramificados /  presentes ausentes, 24 Número_de_células_glandulares_de_los_hidatodos /  4 hasta_6 hasta_8, 25 Número_de_cromosomas /  24 23 21 20 19 18 16 15, 26 cpDNA /  clado_soportado clado_no_soportado ; 
+	MATRIX
+	N._africana                        00000204000100000001110010
+	N._amplexicaulis                   00011018112011000060101150
+	N._benthamiana                     00012113112011103120100040
+	N._burbidgeae                      000121131120111031?010002?
+	N._cavicola                        00012114111011101140110030
+	N._excelsior                       01012104111011012140100040
+	N._forsteri                        00011005111001000000111000
+	N._fragrans                        00011110?1?1000001?011?000
+	N._goodspeedii                     10011107112001002160100060
+	N._gossei                          01011113111001000020100050
+	N._heterantha                      0101110211100100210010000?
+	N._maritima                        10011105112001002161100270
+	N._megalosiphon_ssp._megalosiphon  11111102111001002160100031
+	N._monoschizocarpa                 0101310611100101013010000?
+	N._occidentalis_ssp._obliqua       10011108111001000050110020
+	N._rosulata_ssp._ingulba           11111103112001002160100031
+	N._rosulata_ssp._rosulata          111111031110010021?0100030
+	N._rotundifolia                    10011109111001002160101060
+	N._simulans                        11111103111001002140100030
+	N._sp._?Corunna                    1001110511100100218010006?
+	N._suaveolens                      10011104112011002181100270
+	N._truncata                        0101110711200100218010025?
+	N._velutina                        20011005112001002190101260
+
+;
+
+END;
+
