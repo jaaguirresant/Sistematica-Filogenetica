@@ -6,17 +6,34 @@ La matriz de caracteres es el principal requisito para utilizar cualquier progra
 
 ### 1. Familiarizarse con los elementos de los archivos para cada formato.
 
-a. Linea de reconocimiento
+Abrir en un editor de texto los siguientes archivos: [primates.tnt](enlace), example.tnt(enlace), Nicotiana.nex(enlace), [primates.nex](enlace), [primates.phy](enlace). [an example](http://example.com/ "Title")
 
-b. Bloque de taxones
+Responda las siguientes preguntas para todos los formatos:
 
-c. Bloque de caracteres
 
-d. Bloque de matriz
+a. ¿Cual de los archivos contiene una línea de apertura para indicar el tipo de archivo? ¿Cuál es en cada caso?
 
-e. Fin de matriz
+b. ¿Qué caracter se debe usar para hacer comentarios?
 
-f. Código adicional
+c. ¿Cómo indicar cuantos taxones hay en la matriz?
+
+d. ¿Cómo indicar cuantos caracteres hay en la matriz?
+
+d. ¿Cómo se indica el tipo de caracteres de la matriz (p.e. morfológico, ADN, etc)?
+
+e. Para el formato NEXUS: Explique la información de los bloques "Begin Taxa", "Begin characters" y "Begin data"
+
+f. ¿Que caracter y/o palabra se usa para delimitar el final del documento? 
+
+g. ¿Que otra información adicional indentificó en el cada archivo?
+
+
+Más información sobre el formato NEXUS: [Aquí](http://informatics.nescent.org/w/images/8/8b/NEXUS_Final.pdf)
+
+Más información sobre el formato TNT: [Aquí](http://phylo.wikidot.com/tnt-htm)
+
+Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washington.edu/phylip/doc/main.html#inputfiles)
+
 
 ### 2. Paso a paso para generar matrices en Mesquite
 
