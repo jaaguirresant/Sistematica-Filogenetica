@@ -50,7 +50,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ## Contenido
 
-### Semana 1.
+### Semana 1
 
 **Clase 1. Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [primates.tnt], [primates.nex](enlace), [primates.phy](enlace). 
 
