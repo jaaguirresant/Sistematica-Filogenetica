@@ -36,7 +36,7 @@ d. Una ventana llamada “New File Options” se abrirá.
    
    - Seleccionar la caja “Make Character Matrix”. La caja “Make Taxa Block” también debe estar seleccionada. Click OK.
    
-5. Una ventana llamada “New Character Matrix se abrirá.
+e. Una ventana llamada “New Character Matrix se abrirá.
 
    - Darle un nombre a la matriz en la caja de texto “p.e. Ejercicio”.
    
@@ -44,9 +44,9 @@ d. Una ventana llamada “New File Options” se abrirá.
 
    - Seleccionar “Standard Categorical Data”. Click OK.
 
-6. Explorar las opciones de esa ventana.
+f. Explorar las opciones de esa ventana.
 
-7. Ingresar nombres a los taxones y caracteres.
+g. Ingresar nombres a los taxones y caracteres.
 
    - Doble click a taxón 1 en la primera fila de la matriz. Ingresar el nombre del taxón. Presionar ENTER.
    
@@ -54,7 +54,7 @@ d. Una ventana llamada “New File Options” se abrirá.
    
    - Para adicionar caracteres o taxones adicionales, seleccionar las herramientas Add Characters o Add Taxa en el menú de la izquierda. Para eliminar, basta seleccionar y presionar DELETE.
    
-8. Ingresar datos.
+h. Ingresar datos.
 
    - Todos los datos comienzan como “?” para denotar que es información faltante o desconocida.
    
@@ -66,7 +66,7 @@ d. Una ventana llamada “New File Options” se abrirá.
    
    - Guardar con Save.
    
-9. Exportar la matriz a diferentes formatos.
+i. Exportar la matriz a diferentes formatos.
 
    - File, Export y escoger el formato.
 
