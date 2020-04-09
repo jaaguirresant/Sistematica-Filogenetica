@@ -6,7 +6,7 @@ La matriz de caracteres es el principal requisito para utilizar cualquier progra
 
 ### 1. Familiarizarse con los elementos de los archivos para cada formato.
 
-Abrir en un editor de texto los siguientes archivos: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy).
+Abrir en un editor de texto los siguientes archivos: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt) [morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy).
 
 Responda las siguientes preguntas para todos los formatos:
 
