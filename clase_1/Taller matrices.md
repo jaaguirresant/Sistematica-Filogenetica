@@ -10,22 +10,21 @@ Abrir en un editor de texto los siguientes archivos: [ADN.tnt](/clase_1/ADN.tnt)
 
 Responda las siguientes preguntas para todos los formatos:
 
+        a. ¿Cual de los archivos contiene una línea de apertura para indicar el tipo de archivo? ¿Cuál es en cada caso?
 
-   a. ¿Cual de los archivos contiene una línea de apertura para indicar el tipo de archivo? ¿Cuál es en cada caso?
+        b. ¿Qué caracter se debe usar para hacer comentarios?
 
-   b. ¿Qué caracter se debe usar para hacer comentarios?
+        c. ¿Cómo indicar cuantos taxones hay en la matriz?
 
-   c. ¿Cómo indicar cuantos taxones hay en la matriz?
+        d. ¿Cómo indicar cuantos caracteres hay en la matriz?
 
-   d. ¿Cómo indicar cuantos caracteres hay en la matriz?
+        e. ¿Cómo se indica el tipo de caracteres de la matriz (p.e. morfológico, ADN, etc)?
 
-   e. ¿Cómo se indica el tipo de caracteres de la matriz (p.e. morfológico, ADN, etc)?
+        f. Para el formato NEXUS: Explique la información de los bloques "Begin Taxa", "Begin characters" y "Begin data"
 
-   f. Para el formato NEXUS: Explique la información de los bloques "Begin Taxa", "Begin characters" y "Begin data"
+        g. ¿Que caracter y/o palabra se usa para delimitar el final del documento? 
 
-   g. ¿Que caracter y/o palabra se usa para delimitar el final del documento? 
-
-   h. ¿Que otra información adicional indentificó en el cada archivo?
+        h. ¿Que otra información adicional indentificó en el cada archivo?
 
 
 Más información sobre el formato NEXUS: [Aquí](http://informatics.nescent.org/w/images/8/8b/NEXUS_Final.pdf)
