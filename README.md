@@ -54,7 +54,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **Clase 1. Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [primates.tnt], [primates.nex](enlace), [primates.phy](enlace). 
 
-**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](https://github.com/jaaguirresant/Sistematica-Filogenetica/master/Diversification.pdf).
+**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](https://github.com/jaaguirresant/Sistematica-Filogenetica/master/Diversificacion.pdf).
 
 _Bibliografía complementaria:_
 
