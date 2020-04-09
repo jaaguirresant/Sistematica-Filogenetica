@@ -6,7 +6,7 @@ La matriz de caracteres es el principal requisito para utilizar cualquier progra
 
 ### 1. Familiarizarse con los elementos de los archivos para cada formato.
 
-Abrir en un editor de texto los siguientes archivos: [primates.tnt](/clase_1/primates.tnt), example.tnt(enlace), Nicotiana.nex(enlace), [primates.nex](enlace), [primates.phy](enlace).
+Abrir en un editor de texto los siguientes archivos: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[/clase_1/morfologia.nex](morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy).
 
 Responda las siguientes preguntas para todos los formatos:
 
@@ -37,7 +37,7 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 ### 2. Paso a paso para generar matrices en Mesquite
 
-Más detalles en el manual de [Mesquite](https://www.mesquiteproject.org/home.html)
+Más detalles en el manual de [Mesquite](https://www.mesquiteproject.org/home.html) o [aquí](/clase_1/)
 
 a. Abrir Mesquite.
 
