@@ -1,0 +1,5 @@
+# TALLER 1: MATRICES DE CARACTERES PARA ANÁLISIS DE INFERENCIA FILOGENÉTICA
+
+## Formatos
+
+La matriz de caracteres es el principal requisito para utilizar cualquier programa computacional de inferencia filogenética. Esta matriz es simplemente una tabla cuyas filas coresponden a los taxones, las columnas a los caracteres individuales y las celdas contienen el estado de caracter codificado. Aunque esta matriz sería muy fácil de elaborar en una tabla de Excel, este formato no es recomendado, ya que los programas de inferencia filogenética no lo reconocen.
