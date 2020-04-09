@@ -94,7 +94,9 @@ _Bibliografía complementaria:_
 ### Semana 3: 27–30 abril.
 
 **Clase 7. Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.**
+
 **Clase 8. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
+
 **Clase 9. Taller: MrBayes y BEAST**
 
 _Bibliografía complementaria:_
@@ -104,15 +106,15 @@ _Bibliografía complementaria:_
 
 ### Semana 4: 4–7 mayo.
 
-**Clase 10. Taller: Árboles de especies vs. árboles de genes**
-**Clase 11. Discusión de artículos: visión completa de la inferencia**
+**Clase 10. Árboles de especies vs. árboles de genes** Discusión de artículo y taller.
+
+**Clase 11. Discusión de artículos: visión completa de la inferencia** Cada estudiante presenta un artículo.
 
 _Bibliografía complementaria:_
 
-- Tipos de parsimonia
-- Indices
-- Pesos
-- Ventajas y desventajas
+- ASTRAL
+- SDV-QUartets
+- Bucky
 
 **Clase 12. Presentación de proyectos finales**
 
