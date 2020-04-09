@@ -36,7 +36,7 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 ### 2. Paso a paso para generar matrices en Mesquite
 
-Más detalles en el manual de [Mesquite](https://www.mesquiteproject.org/home.html) o [aquí](clase_1/Mesquite Student Guide.pdf)
+Más detalles en el manual de [Mesquite](https://www.mesquiteproject.org/home.html) o [aquí](/clase_1/Mesquite_Student_Guide.pdf)
 
 a. Abrir Mesquite.
 
