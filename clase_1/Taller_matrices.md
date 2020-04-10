@@ -1,5 +1,10 @@
 # TALLER 1: MATRICES DE CARACTERES PARA ANÁLISIS DE INFERENCIA FILOGENÉTICA
 
+## Grupos de trabajo:
+
+- Nelson y Ada
+- Natalia y Ángela
+
 ## Formatos
 
 La matriz de caracteres es el principal requisito para utilizar cualquier programa computacional de inferencia filogenética. Esta matriz es simplemente una tabla cuyas filas coresponden a los taxones, las columnas a los caracteres individuales y las celdas contienen el estado de caracter codificado. Aunque esta matriz sería muy fácil de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exijen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos: Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
@@ -88,6 +93,77 @@ i. Exportar la matriz a diferentes formatos.
 
 ### 3. Generar y subir matrices en R
 
+Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
+
+#### a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
+
+- Abra R Studio
+
+- Úbiquese en el directorio de trabajo:
+
+`setwd("working directory")
+#En mi computador sería algo así: setwd("~/Google Drive/UNAL/Clases/Sistemática y Nomenclatura/2020-1/Clase 1")`
+
+- instale y abra los siguiente paquetes:
+
+`install.packages("ape")
+install.packages("phangorn")
+library(ape)
+library(phangorn)`
+
+- Crear la matriz de 5 taxones y 5 caracteres con la función "matrix". Debe nombrar las especies con el argumento "dimnames" usando guión al piso en vez de espacios. Seguido a esto, debe hacer la lista de los caracteres. Siga el siguiente ejemplo:
+
+`Matriz_manual <- matrix(
+c(0, 0, 0, 1, 0,  #Taxon_1
+  1, 1, 1, 0, 0,  #Taxon_2
+  1, 1, 0, 0, 1,  #Taxon_3
+  1, 0, 0, 1, 1,  #Taxon_4
+  1, 1, 0, 1, 1), #Taxon_5
+nrow = 5, ncol = 5, byrow = TRUE, dimnames = list(c('Taxon_1', 'Taxon_2','Taxon_3','Taxon_4','Taxon_5'),
+c('Caracter_1', 'Caracter_2', 'Caracter_3','Caracter_4', 'Caracter_5')))`
+
+- Visualizar la matriz:
+
+`Matriz_manual
+class(Matriz_manual)`
+
+- Para que la matriz se pueda guardar en formato nexus, se debe convertir a un objeto de clase "phyDat". Al asignar type=USER, se le puede indicar a la función que nuestros datos son binarios (0 y 1):
+
+`mi_matriz <- as.phyDat(Matriz_manual, type="USER", levels = c(0,1))
+class(mi_matriz)`
+
+- Guardar el archivo en formato Nexus con la función "read.nexus.data
+
+`write.nexus.data(mi_matriz, "mi_matriz_en_R.nex", format= "standard", datablock=FALSE)`
+
+
+#### b. Leer un archivo que contiene una matriz en formato Nexus
+
+- Asegúrese de que las matrices del comienzo de este taller están en el directorio de trabajo.
+
+- Las matrices de ADN se leen fácilemente con las funciones "read.DNA (para archivos fasta) y "read.nexus.data" (para archivos nexus). Por ejemplo: 
+
+`matriz_ADN <- read.nexus.data("ADN.nex")
+matriz_ADN`
+
+- Las matrices morfológicas son más complicadas de leer, pero el paquete "claddis" tiene la función "ReadMorphNexus" que facilita este trabajo. Sin embargo, hay que asegurarse de que el archivo siga un formato estándar y que tenga el bloque de supuestos "Assumption block" al final del archivo. Seguir el ejemplo "morphomatrix.nex" ejecuntando los siguientes comando y revisando el archivo en sus carpetas de trabajo:
+
+`cat("#NEXUS\n\nBEGIN DATA;\n\tDIMENSIONS  NTAX=5 NCHAR=5;\n\t
+    FORMAT SYMBOLS= \" 0 1 2\" MISSING=? GAP=- ;\nMATRIX\n\n
+    Taxon_1  010?0\nTaxon_2  021?0\nTaxon_3  02111\nTaxon_4  011-1
+    \nTaxon_5  001-1\n;\nEND;\n\nBEGIN ASSUMPTIONS;\n\t
+    OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;\n\t
+    TYPESET * UNTITLED  = unord: 1 3-5, ord: 2;\n\t
+    WTSET * UNTITLED  = 1: 2, 2: 1 3-5;\nEND;", file = "morphmatrix.nex")
+morph.matrix <- ReadMorphNexus("morphmatrix.nex")
+morph.matrix`
+
+- Una vez estemos seguros de que nuestra matriz tiene el formato correcto, podemos leerla:
+
+`matriz_morfo <- ReadMorphNexus("morfologia.nex")
+matriz_morfo`
+
+- Repita este ejercicio con la matriz de 5 x 5 que generó en Mesquite y en R y subir el script de R al DRIVE del curso: entregas/Taller_matrices.
 
 
 
