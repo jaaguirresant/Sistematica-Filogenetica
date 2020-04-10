@@ -36,7 +36,7 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 ### 2. Paso a paso para generar matrices en Mesquite
 
-Más detalles en el manual de [Mesquite](https://www.mesquiteproject.org/home.html) o [aquí](/clase_1/Mesquite_Student_Guide.pdf)
+Escoja cinco organismos de su interés (4 del grupo interno y 1 grupo ajeno), construya una matriz de cinco caracteres homólogos y guárdela en los formatos TNT, NEXUS y PHYLIP. A continuación se encuentran las instrucciones básicas para construir esta matriz en Mesquite:
 
 a. Abrir Mesquite.
 
@@ -87,6 +87,8 @@ i. Exportar la matriz a diferentes formatos.
    - File, Export y escoger el formato.
 
 ### 3. Generar y subir matrices en R
+
+
 
 
 
