@@ -54,14 +54,3 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 ### Semana 1
 
 **[Clase 1](/clase_1/). Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descarar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
-
-**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Diversificacion.pdf).
-
-_Bibliografía complementaria:_
-
-- Distancias
-- Argumentación Hennigiana
-
-**Clase 3. Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia ([Descargar diapositivas aquí](enlace)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método ([Descargar taller aquí](enlace)). 
-
-**NOTA:** Antes de empezar la clase se recomienda leer el siguiente artículo: [MP](enlace).
