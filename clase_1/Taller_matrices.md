@@ -101,7 +101,7 @@ Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por e
 
 - Úbiquese en el directorio de trabajo:
 
-`setwd("working directory")
+```setwd("working directory")
 #En mi computador sería algo así: setwd("~/Google Drive/UNAL/Clases/Sistemática y Nomenclatura/2020-1/Clase 1")`
 
 - instale y abra los siguiente paquetes:
