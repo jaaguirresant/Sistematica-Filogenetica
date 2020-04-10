@@ -30,7 +30,7 @@ Este módulo ha sido diseñado para estudiantes del curso de posgrado "Sistemát
 A. Computador o laptop con los siguientes programas instalados: 
 - Editor de texto (recomendados notepad++ para Windows y Atom para Mac).
 - [Mesquite](https://www.mesquiteproject.org/). Útil para construir y/o visualizar matrices de caracteres.
-- R y R Studio (bajar los paquetes: Ape, Phangorn, Phytools).
+- R y R Studio (bajar los paquetes: Ape, Claddis, Phangorn, Phytools).
 - [TNT](http://www.lillo.org.ar/phylogeny/tnt/). GUI solo para Windows. Para análisis de Máxima Parsimonia.
 - [jmodelTest](https://github.com/ddarriba/jmodeltest2). Para selección de modelos evolutivos de secuencias de nucleótidos.
 - [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Para análisis de Máxima Verosimilitud.
