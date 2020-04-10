@@ -1,6 +1,6 @@
 # TALLER 1: MATRICES DE CARACTERES PARA ANÁLISIS DE INFERENCIA FILOGENÉTICA
 
-_[Volver a inicio](/master.md)_
+_[Volver a inicio](/README.md)_
 
 ## Grupos de trabajo:
 
