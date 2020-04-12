@@ -59,9 +59,8 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
 
-**[IR AL TALLER 2](/clase_2/Taller_distancia_Hennig.md).**
+**[IR AL TALLER 2](/clase_2/Taller_2.md).**
 
-[insertar imágen de Hennig y árbol de UPGMA]
 
 **_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
 
