@@ -4,6 +4,8 @@ Este taller tiene dos partes: (1) un ejercicio básico de inferencia usando una 
 
 ## PARTE 1
 
+![](/clase_2/Slide1.jpg)
+
 Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxones de Angiospermas y el grupo ajeno es un taxon de gimnospermas (pino):
 
 ![](/clase_2/matriz.jpg)
