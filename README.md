@@ -30,13 +30,14 @@ Este módulo ha sido diseñado para estudiantes del curso de posgrado "Sistemát
 A. Computador o laptop con los siguientes programas instalados: 
 - Editor de texto (recomendados notepad++ para Windows y Atom para Mac).
 - [Mesquite](https://www.mesquiteproject.org/). Útil para construir y/o visualizar matrices de caracteres.
-- R y R Studio (bajar los paquetes: Ape, Phangorn, Phytools).
+- R y R Studio (bajar los paquetes: Ape, Claddis, Phangorn, Phytools).
 - [TNT](http://www.lillo.org.ar/phylogeny/tnt/). GUI solo para Windows. Para análisis de Máxima Parsimonia.
 - [jmodelTest](https://github.com/ddarriba/jmodeltest2). Para selección de modelos evolutivos de secuencias de nucleótidos.
 - [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Para análisis de Máxima Verosimilitud.
 - [MrBayes](http://nbisweden.github.io/MrBayes/download.html). Para análisis de Inferencia Bayesiana.
 - [ASTRAL](https://github.com/smirarab/ASTRAL/blob/master/README.md). Para inferencia de árboles de especies a partir de árboles de genes.
-- [FigTree](https://github.com/rambaut/figtree/releases).
+- [FigTree](https://github.com/rambaut/figtree/releases). Para visualización y edición de árboles filogenéticos.
+- [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1). Para visualizar resultados de MCMC.
 
 **Nota:** Es posible que usemos otros programas, pero les avisaré con tiempo. Todos los programas de inferencia filogenética vienen acompañados con sus respectivos tutoriales. Se sugiere seguirlos en su tiempo libre; no se limiten únicamente a los ejercicios de la clase.  
 
@@ -50,36 +51,48 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ## Contenido
 
-### Semana 1: 13–16 abril.
+### Semana 1
 
-**Clase 1. Repaso y corto taller de manejo de matrices y datos en R.** Se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [primates.tnt], [primates.nex](enlace), [primates.phy](enlace). 
+**[Clase 1](/clase_1/Taller_matrices.md). Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
 
-**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. [Descargar diapositivas aquí](enlace). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana [aquí](https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Diversificacion.pdf).
+**[IR AL TALLER](/clase_1/Taller_matrices.md).**
 
-_Bibliografía complementaria:_
+**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
 
-- Distancias
-- Argumentación Hennigiana
+**[IR AL TALLER 2](/clase_2/Taller_distancia_Hennig.md).**
 
-**Clase 3. Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia ([Descargar diapositivas aquí](enlace)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método ([Descargar taller aquí](enlace)). 
+[insertar imágen de Hennig y árbol de UPGMA]
 
-**NOTA:** Antes de empezar la clase se recomienda leer el siguiente artículo: [MP](enlace).
+**_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
+
+- Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
+
+- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
+
+**Clase 3. Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas[aquí](/clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
+
+**[IR AL TALLER 3](/clase_3/Taller_MP_1.md).** 
+
+[insertar imágen de árbol de parsimonia]
+
+
+**NOTA:** Para la próxima clase leer los siguientes artículos: 
+
+- [Wiens AÑO](/clase_4/Wiens_2011_Gastrotheca.pdf)
+
+- [González 1999](/clase_5/Gonzalez_1999_Aristolochia.pdf)
 
 ### Semana 2: 20–23 abril. 
 
-**Clase 4. Ramificaciones de la Máxima Parsimonia y medidas de confianza.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia y se explican los métodos principales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](enlace)). Esta clase termina con un taller manual de ejercicios y una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. ([Descargar taller aquí](enlace)). 
+**Clase 4. Ramificaciones de la Máxima Parsimonia y medidas de confianza.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia y se explican los métodos principales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](/clase_4/Clase_4.pdf)). Esta clase termina con un taller manual de ejercicios y una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
 
-**NOTA:** Antes de empezar la clase se recomienda leer el siguiente artículo: [soporte](enlace).
+**[IR AL TALLER 4](/clase_4/Taller_MP_2.md).**
 
-_Bibliografía complementaria:_
-
-- Tipos de parsimonia
-- Indices
-- Pesos
-- Ratchet
-- Ventajas y desventajas
+[insertar imágen de Wiens]
 
 **Clase 5. Discusión de artículo, taller de manipulación de resultados y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González ML](enlace), un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](enlace)) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para el taller es necesario traer los resultados del ejercicio de la clase anterior.
+
+[insertar imagen de matrices]
 
 **Clase 6. Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Las últimas dos clases de esta semana se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Estas clases se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](enlace)) y una práctica computacional con los programas JModelTest, RAxML-GUI y el paquete phangorn de R, usando las siguientes matrices: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace) y la siguiente guía: [guía](enlace).
 
