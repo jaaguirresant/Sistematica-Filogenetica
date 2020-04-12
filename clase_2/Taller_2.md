@@ -1,5 +1,7 @@
 # TALLER # 2. MÉTODOS DE DISTANCIA Y ARGUMENTACIÓN HENNIGIANA
 
+_[Volver a inicio](/README.md)_
+
 Este taller tiene dos partes: (1) un ejercicio básico de inferencia usando una matriz previamente elaborada y (2) un ejercicio de inferencia para el cual el estudiante (o grupo de estudiantes) debe generar una matriz a partir de observaciones y hacer las respectivas inferencias usando los métodos de distancia y argumentación Hennigiana.
 
 ## PARTE 1
