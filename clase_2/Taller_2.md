@@ -14,7 +14,7 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 
 3. Con base en esta matriz, infiera el árbol usando argumentación Hennigiana.
 
-# PARTE 2
+## PARTE 2
 
 A continuación se presenta una tabla de caracteres con sus respectivos estados de caracter, los cuales fueron codificados para inferir las relaciones filogenéticas de los tetrapodos. Para este ejercicio, se escogió a una especie de pulmonado como grupo ajeno.
 
