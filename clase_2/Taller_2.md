@@ -6,12 +6,8 @@ Este taller tiene dos partes: (1) un ejercicio básico de inferencia usando una 
 
 Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxones de Angiospermas y el grupo ajeno es un taxon de gimnospermas (pino):
 
-[Insertar Matriz]
+![](/clase_2/matriz.jpg)
 
-| |1|2|3|4|5|6|7|8|9|10|
-|---|---|---|---|---|---|---|---|---|---|---|
-|Pino|1|1|1|1|1|1|1|1|1|1|
-|Guanábana|1|1|1|1|1|1|1|1|1|1|
 
 1. Con base en esta matriz, genere la matriz de distancias e infiera el árbol de distancias usando UPGMA.
 
