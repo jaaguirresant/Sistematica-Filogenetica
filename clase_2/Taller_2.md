@@ -8,6 +8,11 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 
 [Insertar Matriz]
 
+| |1|2|3|4|5|6|7|8|9|10|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Pino|1|1|1|1|1|1|1|1|1|1|
+|Guanábana|1|1|1|1|1|1|1|1|1|1|
+
 1. Con base en esta matriz, genere la matriz de distancias e infiera el árbol de distancias usando UPGMA.
 
 2. Con base en esta matriz, genere la matriz de distancias, la matriz de tasas corregidas e infiera el árbol de distancias usando neighbour-joining.
