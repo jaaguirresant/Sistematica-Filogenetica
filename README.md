@@ -68,18 +68,21 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 - Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
 
+#
+
 **Clase 3. Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas[aquí](/clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
 
 **[IR AL TALLER 3](/clase_3/Taller_MP_1.md).** 
 
-[insertar imágen de árbol de parsimonia]
-
+![](/clase_3/Strict.png)
 
 **NOTA:** Para la próxima clase leer los siguientes artículos: 
 
-- [Wiens AÑO](/clase_4/Wiens_2011_Gastrotheca.pdf)
+- [Wiens AÑO](/clase_3/Wiens_2011.pdf)
 
-- [González 1999](/clase_5/Gonzalez_1999_Aristolochia.pdf)
+- [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf)
+
+#
 
 ### Semana 2: 20–23 abril. 
 
@@ -87,9 +90,11 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 4](/clase_4/Taller_MP_2.md).**
 
-[insertar imágen de Wiens]
+![](/clase_3/Gastrotheca2.jpg)
 
-**Clase 5. Discusión de artículo, taller de manipulación de resultados y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González ML](enlace), un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](enlace)) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para el taller es necesario traer los resultados del ejercicio de la clase anterior.
+#
+
+**Clase 5. Discusión de artículo, taller de manipulación de resultados y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf), un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](/clase_5/Taller_arboles.md) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para el taller es necesario traer los resultados del ejercicio de la clase anterior.
 
 [insertar imagen de matrices]
 
