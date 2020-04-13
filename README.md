@@ -75,7 +75,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md).**
 
-![](/Clase_3/Strict.png =15x15)
+![](/Clase_3/Strict.png =15*15)
 
 **NOTA:** Para la próxima clase leer los siguientes artículos: 
 
