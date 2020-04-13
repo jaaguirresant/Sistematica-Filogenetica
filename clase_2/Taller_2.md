@@ -26,15 +26,15 @@ A continuación se presenta una tabla de caracteres con sus respectivos estados 
 |# Caracter| Caracter | Estado 0| Estado 1|
 |---|---|---|---|
 |1|Carpelos|Ausentes|Presentes|
-|2|Nerviación hoja|paralela|reticulada|
-|3|Tipo de fruto|seco|carnoso|
-|4|Hábito|herbáceo|leñoso|
+|2|Nerviación hoja|Paralela|Reticulada|
+|3|Tipo de fruto|Seco|Carnoso|
+|4|Hábito|Herbáceo|Leñoso|
 |5|compuestos aromáticos en hojas|Ausentes|Presentes|
-|6|Número de semillas por carpelo/escama|una|más de una|
+|6|Número de semillas por carpelo/escama|Una|Más de una|
 |7|División de las hojas|Simples|Compuestas|
 |8|Sistema sexual|Unisexual|Bisexual|
 |9|Fusión pétalos|Libres|Fusionados|
-|10|Número de estambres|cinco|seis o más|
+|10|Número de estambres|Cinco|Seis o más|
 
 
 Con base en esta tabla:
