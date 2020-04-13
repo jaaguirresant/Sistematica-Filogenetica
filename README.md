@@ -55,4 +55,14 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[Clase 1](/clase_1/Taller_matrices.md). Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
 
-**[IR AL TALLER](/clase_1/Taller_matrices.md).**
+**[IR AL TALLER](/clase_1/Taller_matrices.md)**
+
+**Clase 2. Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica bajar el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
+
+**[IR AL TALLER 2](/clase_2/Taller_2.md)**
+
+**_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
+
+- Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
+
+- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
