@@ -75,10 +75,10 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md).**
 
-![](/clase_3/Strict.png)
+![](/Clase_3/Strict.png)
 
 **NOTA:** Para la próxima clase leer los siguientes artículos: 
 
-- [Wiens AÑO](/clase_3/Wiens_2011.pdf)
+- [Wiens 2011](/Clase_3/Wiens_2011.pdf)
 
-- [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf)
+- [González 1999](/Clase_3/Gonzalez_1999_Aristolochia.pdf)
