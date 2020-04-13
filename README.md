@@ -68,3 +68,17 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 - Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
 
 - Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
+
+#
+
+**Clase 3. Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas[aquí](/clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
+
+**[IR AL TALLER 3](/clase_3/Taller_MP_1.md).**
+
+![](/clase_3/Strict.png)
+
+**NOTA:** Para la próxima clase leer los siguientes artículos: 
+
+- [Wiens AÑO](/clase_3/Wiens_2011.pdf)
+
+- [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf)
