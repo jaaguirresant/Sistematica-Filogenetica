@@ -64,7 +64,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="200" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
 
 
