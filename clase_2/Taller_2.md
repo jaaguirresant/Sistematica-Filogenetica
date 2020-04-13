@@ -13,17 +13,29 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 ![](/clase_2/matriz.jpg)
 
 
-1. Con base en esta matriz, genere la matriz de distancias e infiera el árbol de distancias usando UPGMA.
+1. Con base en esta matriz, genere una submatriz de 5 taxones (pino, aguacate, soya, cacao y tomate), genere la matriz de distancias entre estos taxones e infiera el árbol de distancias usando UPGMA.
 
-2. Con base en esta matriz, genere la matriz de distancias, la matriz de tasas corregidas e infiera el árbol de distancias usando neighbour-joining.
+2. Con base en la submatriz de 5 taxones, genere la matriz de distancias, la matriz de tasas corregidas e infiera el árbol de distancias usando neighbour-joining.
 
-3. Con base en esta matriz, infiera el árbol usando argumentación Hennigiana.
+3. Con base en la matriz completa, infiera el árbol usando argumentación Hennigiana.
 
 ## PARTE 2
 
-A continuación se presenta una tabla de caracteres con sus respectivos estados de caracter, los cuales fueron codificados para inferir las relaciones filogenéticas de los tetrapodos. Para este ejercicio, se escogió a una especie de pulmonado como grupo ajeno.
+A continuación se presenta una tabla de caracteres con sus respectivos estados de caracter, los cuales fueron codificados para inferir las relaciones filogenéticas de las Angiospermas usando los siguientes taxones: pino (grupo ajeno), guanábana, piña, arroz, cacao y tomate:
 
-[insetar Tabla]
+|# Caracter| Caracter | Estado 0| Estado 1|
+|---|---|---|---|
+|1|Carpelos|Ausentes|Presentes|
+|1|Nerviación hoja|paralela|reticulada|
+|1|Tipo de fruto|seco|carnoso|
+|1|Hábito|herbáceo|leñoso|
+|1|compuestos aromáticos en hojas|Ausentes|Presentes|
+|1|Número de semillas por carpelo/escama|una|más de una|
+|1|División de las hojas|Simples|Compuestas|
+|1|Sistema sexual|Unisexual|Bisexual|
+|1|Fusión pétalos|Libres|Fusionados|
+|1|Número de estambres|cinco|seis o más|
+
 
 Con base en esta tabla:
 
