@@ -75,7 +75,9 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md).**
 
-<img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="200" height="200" />
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="200" height="200" />
+</p>
 
 **NOTA:** Para la próxima clase leer los siguientes artículos: 
 
