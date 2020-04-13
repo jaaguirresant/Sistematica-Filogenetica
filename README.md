@@ -63,6 +63,11 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="200" height="200" />
+</p>
+
+
 **_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
 
 - Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
@@ -76,7 +81,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="200" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
 </p>
 
 **NOTA:** Para la próxima clase leer los siguientes artículos: 
