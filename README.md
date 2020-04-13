@@ -61,7 +61,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ![](/clase_2/distance.gif) 
 
-![](/clase_2/Hennig_book.jpg =100x20)
+![](./clase_2/Hennig_book.jpg =100x20)
 
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 
