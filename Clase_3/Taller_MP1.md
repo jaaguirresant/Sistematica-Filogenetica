@@ -27,7 +27,6 @@ Usando esta matriz y el árbol:
 Considere las tres hipótesis filogenéticas y la matriz de caracteres de la siguiente figura:
 
 ![](Ejercicio_2.jpg)
-https://github.com/jaaguirresant/Sistematica-Filogenetica/edit/master/Clase_3/Ejercicio_2.jpg
 
 Con base en esta información:
 
@@ -71,4 +70,4 @@ Con base en este resultado:
 
 1. Dibuje el árbol de consenso estricto que resuma los tres resultados.
 
-2. 1. Dibuje el árbol de consenso de 50% de mayoría que resuma los tres resultados.
+2. Dibuje el árbol de consenso de 50% de mayoría que resuma los tres resultados.
