@@ -1,5 +1,7 @@
 # TALLER MÁXIMA PARSIMONIA I: Optimización de caracteres
 
+_[Volver a inicio](/README.md)_
+
 ## Polarización a posteriori y longitud del árbol
 
 Suponga que el siguiente es el mejor árbol filogenético de las relaciones evolutivas de los tetrápodos:
