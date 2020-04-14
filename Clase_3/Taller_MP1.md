@@ -4,7 +4,7 @@
 
 Suponga que el siguiente es el mejor árbol filogenético de las relaciones evolutivas de los tetrápodos:
 
-![](Árbol_tetrapodos)
+![](Arbol_tetrapodos.png)
 
 Este árbol fue inferido con base en la siguiente matriz de secuencias de ADN:
 
