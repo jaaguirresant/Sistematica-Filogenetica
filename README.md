@@ -93,9 +93,11 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[Clase 4](/clase_4/Taller_MP2.md). Ramificaciones de la Máxima Parsimonia y medidas de confianza.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia y se explican los métodos principales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](/clase_4/clase_4.pdf)). Esta clase termina con un taller manual de ejercicios y una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
 
+![](/clase_3/Gastrotheca2.jpg)
+
 **[IR AL TALLER 4](/clase_4/Taller_MP_2.md).**
 
-![](/clase_3/Gastrotheca2.jpg)
+
 
 #
 
