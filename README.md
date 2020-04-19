@@ -89,3 +89,23 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 - [Wiens 2011](/Clase_3/Wiens_2011.pdf)
 
 - [González 1999](/Clase_3/Gonzalez_1999_Aristolochia.pdf)
+
+#
+
+### Semana 2: 20–23 abril. 
+
+**[Clase 4](/clase_4/Taller_MP2.md). Ramificaciones de la Máxima Parsimonia y medidas de confianza.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia y se explican los métodos principales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](/clase_4/clase_4.pdf)). Esta clase termina con un taller manual de ejercicios y una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
+
+![](/clase_3/Gastrotheca2.jpg)
+
+**[IR AL TALLER 4](/clase_4/Taller_MP_2.md)**
+
+**Nota 1:** Para la clase del miércoles, traer una corta presentación (5-10 minitos) donde explican las matrices que usarán en sus proyectos y las matrices en formato Nexus.
+
+**Nota 2:** Para la clase del jueves leer:
+
+1. Modelos evolutivos: [Strimmer & Haeseler 2009](/clase_4/Modelos.pdf).
+
+2. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+
+3. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf). 
