@@ -1,15 +1,9 @@
-# Taller en construcción
-
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="400" />
-</p>
-
 # PARTE 1. MEDIDAS DE SOPORTE
 
 Con base en la siguiente matriz: 
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/BT.jpg" width="300" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/BT.jpg" width="500" height="250" />
 </p>
 
 Crear una matriz permutada para realizar el test de PTP
