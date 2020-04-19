@@ -97,7 +97,15 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[IR AL TALLER 4](/clase_4/Taller_MP_2.md).**
 
+**Nota 1:** Para la clase del miércoles, traer una corta presentación (5-10 minitos) donde explican las matrices que usarán en sus proyectos y las matrices en formato Nexus.
 
+**Nota 2:** Para la clase del jueves leer:
+
+1. Modelos evolutivos: [Strimmer & Haeseler 2009](/clase_4/Modelos.pdf).
+
+2. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+
+3. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf). 
 
 #
 
