@@ -48,8 +48,7 @@ Responder las siguientes preguntas y subir las respuestas al Drive:
 
 ## Máxima Parsimonia en R
 
-
-# Inferencia filogenética con Máxima Parsimonia
+```
 
 # Para este ejercicio usaremos los paquetes ape, phangorn y seqinr.
 
