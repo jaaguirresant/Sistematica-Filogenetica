@@ -101,7 +101,7 @@ cat(readLines("example.nex"),sep="\n")
 ```
 **Tarea:** describa estos dos formatos.
 
-## 5. Simulación, visualización, extracción de clados y eliminación de terminales.
+## 4. Simulación, visualización, extracción de clados y eliminación de terminales.
 
 La función "pbtree" permite simular un árbol usando el módelo de nacimiento-muerte. La simulacion de arboles es extremadamente importante en la evaluación de hipótesis evolutivas de diversificación y evolución de carateres. Como ejemplo, simularemos un árbol de 40 terminales con una tasa de especiación de 1 y una tasa de extinción de 0.2:
 
@@ -131,9 +131,9 @@ También podemos seleccionar cuales especies eliminar (p.e. las especies extinta
 plotTree(et<-drop.tip(tree,getExtinct(tree)),cex=0.7)
 ```
 
-**Tarea:** Repita el ejercicio del punto 5 simulando un árbol de 50 terminales.
+**Tarea:** Repita el ejercicio del punto 4 simulando un árbol de 50 terminales.
 
-## 6. Árboles binarios y politómicos
+## 5. Árboles binarios y politómicos
 
 Muchas veces los programa de filogenética resultan en árboles de consenso que contienen politomías o a veces en un solo árbol perfectamente bifurcado. El paquete "ape" lee ambos tipos de árboles; sin embargo, para análisis posteriores es importante estar seguro de que el árbol es bifucardo. Para esto, la función "is.binary.tree" es muy útil. Construyamos un árbol politómico y verificamos que nos dice la función "is.binary.tree":
 
@@ -151,7 +151,7 @@ plot(t2,type="cladogram")
 is.binary.tree(t2)
 ```
 
-## 7. Otros rearreglos del árbol.
+## 6. Otros rearreglos del árbol.
 
 Además de las funciones explicadas arriba, podemos manipular los árboles de otras maneras. Por ejemplo:
  
