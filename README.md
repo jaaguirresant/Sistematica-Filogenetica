@@ -111,3 +111,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 2. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
 
 3. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf). 
+
+#
+
+**[Clase 5](/clase_5/Taller_arboles.md). Discusión de artículo, taller de manejo de árboles filogenéticos y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf), un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](/clase_5/Taller_arboles.md) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para el taller es necesario traer los resultados del ejercicio de la clase anterior.
