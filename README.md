@@ -100,7 +100,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
 </p>
 
-**[IR AL TALLER 4](/clase_4/Taller_MP_2.md)**
+**[IR AL TALLER 4](/clase_4/Taller_MP2.md)**
 
 **Nota 1:** Para la clase del miércoles, traer una corta presentación (5-10 minutos) donde explican las matrices que usarán en sus proyectos y las matrices en formato Nexus.
 
