@@ -6,6 +6,8 @@ El objetivo de este corto taller es el de aprender a manipular árboles filogen�
 
 # PARTE 1. Visualización y manipulación de árboles con R
 
+_Ejercicio basado en los ejemplos de Liam Revell y Luke Harmon https://lukejharmon.github.io/ilhabela/instruction/2015/07/02/introduction-phylogenies-in-R/_
+
 Para este ejercicio usaremos los paquetes ape y phytools. Este último paquete es excelente para crear visualizaciones y hacer análisis complejos con datos filogenéticos. Para explorar todo el potencial de este paquete, recomiendo visitar el blog de Liam Revel, creador del paquete: http://blog.phytools.org/
 
 ```
