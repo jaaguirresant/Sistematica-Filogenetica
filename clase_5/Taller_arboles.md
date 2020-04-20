@@ -1,6 +1,6 @@
 # Manejo de arboles y datos filogenéticos en R
 
-[Ir a inicio](
+_[Volver a inicio](/README.md)_
 
 El objetivo de este corto taller es el de aprender a manipular árboles filogenéticos en R y FigTree para generar visualizaciones informativas de resultados de analisis filogenéticos.
 
