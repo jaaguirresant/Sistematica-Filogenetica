@@ -62,7 +62,7 @@ library(seqinr)
 
 ```
 
-2. Cargamos la matriz de ADN en formato Nexus con la función "read.phyDat", ya que phangorn requiere que la matriz sea de clae phyDat.
+2. Cargamos la matriz de ADN en formato Nexus con la función "read.phyDat", ya que phangorn requiere que la matriz sea de clase phyDat.
 
 ```
 Primates_ADN <- read.phyDat("ADN.nex", format = "nexus")
