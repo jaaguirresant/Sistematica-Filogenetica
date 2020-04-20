@@ -46,7 +46,7 @@ Responder las siguientes preguntas y subir las respuestas al Drive:
 
    - Trees -> Consensus 
 
-5. Tomar pantallazos de los resultados y subro al Drive-
+5. Tomar pantallazos de los resultados y subirlos al Drive.
 
 
 ## Máxima Parsimonia en R
