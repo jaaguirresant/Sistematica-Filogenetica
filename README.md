@@ -109,7 +109,22 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**Clase 5. Discusión de artículo, taller de manejo de árboles filogenéticos y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf), un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](/clase_5/Taller_arboles.md) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para el taller es necesario traer los resultados del ejercicio de la clase anterior.
+**[Clase 5](/clase_5/Taller_Lectura_Gonzalez_1999.md). Discusión de artículo y presentación de matrices del proyecto.**  Esta clase se destina a discutir el artículo de [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf) y a presentar las matrices de los proyectos individuales (PowerPoint de máximo 10 minutos por persona). Para la discusión del artículo es necesario leer y responder las preguntas del siguiente enlace: 
+
+[Taller artículo González (1999)](/clase_5/Taller_Lectura_Gonzalez_1999.md)
+
+#
+
+**[Clase 6](/clase_5/Taller_arboles.md). Taller de manejo de árboles filogenéticos e introducción a la inferencia filogenética usando modelos evolutivos.**  Esta clase se destina a realizar un taller sobre la visualización y manipulación de archivos de árboles filogenéticos ([Descargar taller aquí](/clase_5/Taller_arboles.md)) y a una breve discusión guiada sobre los problemas asociados a la inferencia filogenética usando Máxima Parsimonia y un introducción a los métodos de inferencia filogenética usando modelos de evolución. Para esto último es necesario tener fresca la lectura de los siguientes artículos:
+
+- [Strimmer & Haeseler 2009](/clase_4/Modelos.pdf).
+
+- [Philippe et al. 2005](/clase_4/LBA_2005.pdf). 
+
+Como complemento de las lecturas, responder las preguntas del siguiente cuestionario y subir las respuestas al DRIVE:
+
+[Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
+
 
 **Clase 6. Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Las últimas dos clases de esta semana se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Estas clases se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](enlace)) y una práctica computacional con los programas JModelTest, RAxML-GUI y el paquete phangorn de R, usando las siguientes matrices: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace) y la siguiente guía: [guía](enlace).
 
