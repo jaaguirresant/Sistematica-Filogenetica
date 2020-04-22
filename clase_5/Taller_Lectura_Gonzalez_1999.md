@@ -1,5 +1,7 @@
 # Preguntas:
 
+_[Volver a inicio](/README.md)_
+
 1. ¿Qué problema buscaba resolver el autor?
 
 2. ¿Cuál es el objetivo principal del artículo?
