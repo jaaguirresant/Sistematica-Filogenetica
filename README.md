@@ -1,4 +1,7 @@
+# Sistematica-Filogenetica
+
 # MÓDULO INFERENCIA FILOGENÉTICA
+
 
 ## Objetivos
 
@@ -89,15 +92,17 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-### Semana 2: 20–23 abril. 
+### Semana 2
 
 **[Clase 4](/clase_4/Taller_MP2.md). Ramificaciones de la Máxima Parsimonia y medidas de confianza.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia y se explican los métodos principales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](/clase_4/clase_4.pdf)). Esta clase termina con un taller manual de ejercicios y una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
 
-![](/clase_3/Gastrotheca2.jpg)
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
+</p>
 
-**[IR AL TALLER 4](/clase_4/Taller_MP_2.md).**
+**[IR AL TALLER 4](/clase_4/Taller_MP2.md)**
 
-**Nota 1:** Para la clase del miércoles, traer una corta presentación (5-10 minitos) donde explican las matrices que usarán en sus proyectos y las matrices en formato Nexus.
+**Nota 1:** Para la clase del miércoles, traer una corta presentación (5-10 minutos) donde explican las matrices que usarán en sus proyectos y las matrices en formato Nexus.
 
 **Nota 2:** Para la clase del jueves leer:
 
@@ -125,29 +130,30 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 [Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
 
+#
 
-**Clase 6. Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Las últimas dos clases de esta semana se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Estas clases se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](enlace)) y una práctica computacional con los programas JModelTest, RAxML-GUI y el paquete phangorn de R, usando las siguientes matrices: [primates.tnt](enlace), [primates.nex](enlace), [primates.phy](enlace) y la siguiente guía: [guía](enlace).
+### Semana 3
 
-**NOTA:** Antes de empezar la clase se recomienda leer el siguiente artículo: [ML](enlace).
+**[Clase 7](/clase_7/Taller_ML_1.md). Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud y una práctica computacional para la escogencia de modelos evolutivos en R y con el programa JModelTest ([Descargar taller aquí](enlace)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_1/ADN.nex).
 
-_Bibliografía complementaria:_
+**NOTA:** Recuerden que para esta clase deben haber leído el siguiente capítulo:
 
-- Modelos
-- Long branch attraction
-- ML vs, MP
+- Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
 
-### Semana 3: 27–30 abril.
+#
 
-**Clase 7. Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.**
+**Clase 8. Taller práctico: Máxima Verosimilitud.**
 
-**Clase 8. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
+**Clase 9. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
 
-**Clase 9. Taller: MrBayes y BEAST**
+#
 
-_Bibliografía complementaria:_
+### Semana 4
 
-- Model testing
-- Priors y parámetros
+**Clase 10. Evaluación crítica de hipótesis filogenéticas**
+
+**Clase 11. Taller ASTRAL, Bucky y AU TEST**
+
 
 ### Semana 4: 4–7 mayo.
 
