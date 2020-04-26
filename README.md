@@ -136,6 +136,10 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 **[Clase 7](/clase_7/Taller_ML_1.md). Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](/clase_7/Taller_ML_1.md)). 
 
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
+</p>
+
 **NOTA:** Recuerden que para esta clase deben haber leído el siguiente capítulo:
 
 - Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
