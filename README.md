@@ -129,3 +129,14 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 Como complemento de las lecturas, responder las preguntas del siguiente cuestionario y subir las respuestas al DRIVE:
 
 [Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
+
+#
+
+### Semana 3
+
+**[Clase 7](/clase_7/Taller_ML_1.md). Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.md)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](/clase_7/Taller_ML_1.md)). 
+
+**NOTA:** Recuerden que para esta clase deben haber leído el siguiente capítulo:
+
+- Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+
