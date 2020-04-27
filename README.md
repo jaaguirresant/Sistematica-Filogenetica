@@ -154,7 +154,7 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
 
-   - **NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase.
+   - **NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase y se preparen para explicarlo. Casi todo el ejercicio fue tomado y modificado del siguiente artículo: [Schliep (2019)](/clase_8/Phangorn.pdf).
 
    - **Tarea.** Responder las preguntas del Script. 
 
