@@ -134,13 +134,29 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 ### Semana 3
 
-**[Clase 7](/clase_7/Taller_ML_1.md). Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](/clase_7/Taller_ML_1.md)). 
+**Clase 7. Modelos evolutivos.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)).
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
 </p>
 
-**NOTA:** Recuerden que para esta clase deben haber leído el siguiente capítulo:
+**NOTA:** Recuerden que para esta  y las próximas dos clases deben haber leído el siguiente capítulo:
 
 - Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+
+#
+
+**[Clase 8](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se dicide en dos partes:
+
+1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). 
+
+**Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
+
+2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/Taller_ML_2.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
+
+**NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase.
+
+**Tarea.** Responder las preguntas del Script. 
+
+#
 
