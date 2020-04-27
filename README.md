@@ -134,7 +134,7 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 ### Semana 3
 
-**[Clase 7](/clase_7/Taller_ML_1.md). Inferencia filogenética usando modelos evolutivos: 1. Máxima Verosimilitud.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](enlace)). 
+**[Clase 7](/clase_7/Taller_ML_1.md). Modelos evolutivos de sustitución de caracteres.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](enlace)). Esta clase se complementan con un corto taller manual de inferencia usand la Máxima Verosimilitud ([Descargar taller aquí](enlace)). 
 **NOTA:** Recuerden que para esta clase deben haber leído el siguiente capítulo:
 
 - Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
