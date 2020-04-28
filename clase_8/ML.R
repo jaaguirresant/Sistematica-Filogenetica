@@ -1,6 +1,6 @@
 # Ejercicio modificado de Schliep (2019): https://cran.r-project.org/web/packages/phangorn/vignettes/Trees.pdf
 
-# Abrir los paquetes
+# Abrir los paquetes:
 library(ape)
 library(phangorn)
 
