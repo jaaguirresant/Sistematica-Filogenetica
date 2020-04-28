@@ -146,7 +146,7 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 #
 
-**[Clase 8](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se dicide en dos partes:
+**[Clase 8](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se divide en dos partes:
 
 1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). 
 
