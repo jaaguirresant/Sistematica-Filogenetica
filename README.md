@@ -166,7 +166,7 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
   <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
 </p>
 
-Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/wiki/index.php/Tutorial_3.2
+Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/mb3.2_manual.pdf
 
 **Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004)](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
 
