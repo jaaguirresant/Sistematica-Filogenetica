@@ -160,9 +160,20 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 #
 
-**Clase 8. Taller práctico: Máxima Verosimilitud.** y una práctica computacional para la escogencia de modelos evolutivos en R y con el programa JModelTest. Para este ejercicio usaremos la matriz [ADN.nex](/clase_1/ADN.nex).
+**Clase 9. Inferencia Bayesiana.** El objetivo de esta clase es el de aprender como implementar la estadística bayesiana en el contexto de la inferencia filogenética. Para esto, presentaré una corta clase de conceptos fundamentales (bajar diapositivas [aquí](/clase_9/clase_9.pdf) y haremos un ejercicio práctico de inferencia filogenética con el programa [MrBayes](http://nbisweden.github.io/MrBayes/download.html).
 
-**Clase 9. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
+<p align="center">
+  <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
+</p>
+
+Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/wiki/index.php/Tutorial_3.2
+
+**Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
+
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
+
+#
+**Clase 10. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
 
 #
 
