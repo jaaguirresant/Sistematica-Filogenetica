@@ -160,3 +160,16 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 #
 
+**Clase 9. Inferencia Bayesiana.** El objetivo de esta clase es el de aprender como implementar la estadística bayesiana en el contexto de la inferencia filogenética. Para esto, presentaré una corta clase de conceptos fundamentales (bajar diapositivas [aquí](/clase_9/clase_9.pdf) y haremos un ejercicio práctico de inferencia filogenética con el programa [MrBayes](http://nbisweden.github.io/MrBayes/download.html).
+
+<p align="center">
+  <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
+</p>
+
+Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/wiki/index.php/Tutorial_3.2
+
+**Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
+
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
+
+#
