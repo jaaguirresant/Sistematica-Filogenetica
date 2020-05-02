@@ -146,17 +146,17 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
 
 #
 
-**[Clase 8](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se dicide en dos partes:
+**[Clase 8](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se divide en dos partes:
 
 1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). 
 
-**Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
+   - **Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
 
-2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/Taller_ML_2.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
+2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
 
-**NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase.
+   - **NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase y se preparen para explicarlo. Casi todo el ejercicio fue tomado y modificado del siguiente artículo: [Schliep (2019)](/clase_8/Phangorn.pdf).
 
-**Tarea.** Responder las preguntas del Script. 
+   - **Tarea.** Responder las preguntas del Script. 
 
 #
 
@@ -166,35 +166,26 @@ Como complemento de las lecturas, responder las preguntas del siguiente cuestion
   <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
 </p>
 
-Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/wiki/index.php/Tutorial_3.2
+Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seguiremos el siguiente tutorial: http://mrbayes.sourceforge.net/mb3.2_manual.pdf
 
-**Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
+**Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004)](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
 
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
 
 #
-**Clase 10. Inferencia filogenética usando modelos evolutivos: 2. Inferencia Bayesiana:**
 
-#
+### Semana 3
 
-### Semana 4
+**Clase 10. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética. Para esto haremos una corta clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos [bajar diaposistivas acá](/clase_10/clase_10.pdf). La clase se complementa con un taller sobre los temas aprendidos y una práctica de inferencia filogenética de árboles de especies usando árboles de genes con ASTRAL [Ir al Taller](/clase_10/Taller_clase_10.md). 
 
-**Clase 10. Evaluación crítica de hipótesis filogenéticas**
+**Clase 11. Sistemática Filogenética en la práctica** Para esta clase presentaremos dos estudios empíricos de sistemática filogenética realizados por investigadores colombianos. Esta actividad tiene dos propósitos: (1) que los estudiantes se empapen de la investigación en filogenética que hacen los investigadores colombianos, y (2) analizar de una manera crítica las estrategias metodológicas, preguntas de investigación y conclusiones de este tipo de investigaciones. Como preparación para esta actividad, los estudiantes deberán leer los siguientes artículos:
 
-**Clase 11. Taller ASTRAL, Bucky y AU TEST**
+- [Clark, J. L., Clavijo, L., & Muchhala, N. (2015). Convergence of anti-bee pollination mechanisms in the Neotropical plant genus Drymonia (Gesneriaceae). Evolutionary Ecology, 29(3), 355-377.](/clase_11/Clavijo.pdf)
 
+- [Aguirre-Santoro, J., Michelangeli, F. A., & Stevenson, D. W. (2016). Molecular Phylogenetics of the Ronnbergia Alliance (Bromeliaceae, Bromelioideae) and insights into their morphological evolution. Molecular phylogenetics and evolution, 100, 1-20.](/clase_11/Aguirre.pdf)
 
-### Semana 4: 4–7 mayo.
+Para esta clase es necesario que los estudiantes preparen por lo menos tres preguntas sobre los tres principales componentes del estudio: la pregunta de investigación, los métodos y las conclusiones. En el caso de los métodos, pueden hacer preguntas detalladas sobre los muestreos de taxones y caracteres, método de inferencia escogido, modelos evolutivos, medidas de soporte y supuestos biológicos de los sistemas de estudio. Para el informe de esta actividad deberán escribir estas preguntas y su interpretación de las respuestas por parte del especialista. Subir este informe al Drive del curso. 
 
-**Clase 10. Árboles de especies vs. árboles de genes** Discusión de artículo y taller.
+**Clase 12. Presentación de proyectos finales** 
 
-**Clase 11. Discusión de artículos: visión completa de la inferencia** Cada estudiante presenta un artículo.
-
-_Bibliografía complementaria:_
-
-- ASTRAL
-- SDV-QUartets
-- Bucky
-
-**Clase 12. Presentación de proyectos finales**
-
+Tiempo para cada presentación: 30 minutos (incluyendo tiempo para preguntas).
