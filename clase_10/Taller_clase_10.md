@@ -23,13 +23,13 @@
 **Arbol 1**
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_10/arbol1.png" width="150" height="150" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_10/arbol1.png" width="350" height="200" />
 </p>
 
 **Arbol 2**
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_10/arbol2.png" width="150" height="150" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_10/arbol2.png" width="350" height="250" />
 </p>
 
 3. AU test
