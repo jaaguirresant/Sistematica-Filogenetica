@@ -173,3 +173,7 @@ Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seg
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
 
 #
+
+### Semana 3
+
+**Clase 10. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética. Para esto haremos una corta clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos ([bajar diaposistivas acá](/clase_10/clase_10.pdf)). La clase se complementa con un taller sobre los temas aprendidos ([Ir al Taller](/clase_10/Taller_clase_10.md)).
