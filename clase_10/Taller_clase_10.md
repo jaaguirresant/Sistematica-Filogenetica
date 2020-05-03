@@ -35,6 +35,4 @@ _[Volver al inicio](/README.md)_
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_10/arbol2.png" width="350" height="250" />
 </p>
 #
-3. AU test
-#
-4. Bucky
+3. Explique porqué la escogencia de un grupo ajeno distante puede aumentar los casos de atracción de ramas largas en la inferencia filogenética.
