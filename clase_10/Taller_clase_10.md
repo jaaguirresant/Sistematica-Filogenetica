@@ -1,6 +1,4 @@
-TALLER EN CONSTRUCCIÓN
-#
-# PARTE 1: Cuestionario.
+# TALLER evaluación crítica de hipótesis filogenéticas
 #
 
 1. Suponga que usted ha secuenciado tres genes diferentes para el mismo grupo de taxones. Las búsquedas de parsimonia de cada gen individual resultaron en los siguientes longitudes de árbol, respectivamente: 72, 322 y 251 pasos (suma = 645 pasos). Suponga ahora que usted realizó una prueba de ILD (Incongruence Lentgh Difference Test) de 10 réplicas, lo cual generó 10 asignaciones aleatórias de aracteres a las tres particiones (del mismo tamaño que la matriz de los genes originales). La longitud de las tres particiones para los datos aleatorizados se muestra en en la siguiente tabla:
@@ -25,9 +23,3 @@ TALLER EN CONSTRUCCIÓN
 3. AU test
 
 4. Bucky
-
-#
-# PARTE 2: Tutorial ASTRAL
-#
-
-
