@@ -183,3 +183,19 @@ Para la práctica usaremos la matriz [primates.nex](/clase_9/primates.nex) y seg
 </p>
 
 [Fuente de la imagen](https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png)
+
+#
+
+**Clase 11. Sistemática Filogenética en la práctica** Para esta clase presentaremos dos estudios empíricos de sistemática filogenética realizados por investigadores colombianos. Esta actividad tiene dos propósitos: (1) que los estudiantes se empapen de la investigación en filogenética que hacen los investigadores colombianos, y (2) analizar de una manera crítica las estrategias metodológicas, preguntas de investigación y conclusiones de este tipo de investigaciones. Como preparación para esta actividad, los estudiantes deberán leer los siguientes artículos:
+
+- [Clark, J. L., Clavijo, L., & Muchhala, N. (2015). Convergence of anti-bee pollination mechanisms in the Neotropical plant genus Drymonia (Gesneriaceae). Evolutionary Ecology, 29(3), 355-377.](/clase_11/Clavijo.pdf)
+
+- [Aguirre-Santoro, J., Michelangeli, F. A., & Stevenson, D. W. (2016). Molecular Phylogenetics of the Ronnbergia Alliance (Bromeliaceae, Bromelioideae) and insights into their morphological evolution. Molecular phylogenetics and evolution, 100, 1-20.](/clase_11/Aguirre.pdf)
+
+Para esta clase es necesario que los estudiantes preparen por lo menos tres preguntas sobre los tres principales componentes del estudio: la pregunta de investigación, los métodos y las conclusiones. En el caso de los métodos, pueden hacer preguntas detalladas sobre los muestreos de taxones y caracteres, método de inferencia escogido, modelos evolutivos, medidas de soporte y supuestos biológicos de los sistemas de estudio. 
+
+#
+
+**Clase 12. Presentación de proyectos finales** 
+
+Tiempo para cada presentación: 30 minutos (incluyendo tiempo para preguntas).
